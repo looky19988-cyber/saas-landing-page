@@ -14,7 +14,7 @@ export default function Hero() {
         </div>
         
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-gray-900 mb-6 leading-tight">
-          AI와 함께 <span className="text-[#6B46C1]">더 빠르게 더 잘 쓰세요</span>
+          희원이와 함께 <span className="text-[#6B46C1]">더 빠르게 더 잘 쓰세요</span>
         </h1>
         
         <p className="text-lg md:text-xl text-gray-600 mb-10 max-w-2xl leading-relaxed">
